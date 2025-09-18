@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\ModificadorRef\bin\Debug\net8.0\ModificadorRef.exe
+C:\Users\ET73\Downloads\projetos-c#\ModificadorRef\bin\Debug\net8.0\ModificadorRef.deps.json
+C:\Users\ET73\Downloads\projetos-c#\ModificadorRef\bin\Debug\net8.0\ModificadorRef.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\ModificadorRef\bin\Debug\net8.0\ModificadorRef.dll
+C:\Users\ET73\Downloads\projetos-c#\ModificadorRef\bin\Debug\net8.0\ModificadorRef.pdb
+C:\Users\ET73\Downloads\projetos-c#\ModificadorRef\obj\Debug\net8.0\ModificadorRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\ModificadorRef\obj\Debug\net8.0\ModificadorRef.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\ModificadorRef\obj\Debug\net8.0\ModificadorRef.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\ModificadorRef\obj\Debug\net8.0\ModificadorRef.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\ModificadorRef\obj\Debug\net8.0\ModificadorRef.dll
+C:\Users\ET73\Downloads\projetos-c#\ModificadorRef\obj\Debug\net8.0\refint\ModificadorRef.dll
+C:\Users\ET73\Downloads\projetos-c#\ModificadorRef\obj\Debug\net8.0\ModificadorRef.pdb
+C:\Users\ET73\Downloads\projetos-c#\ModificadorRef\obj\Debug\net8.0\ModificadorRef.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\ModificadorRef\obj\Debug\net8.0\ref\ModificadorRef.dll
